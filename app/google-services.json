@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "250790525006",
+    "project_id": "scorecard-d9d72",
+    "storage_bucket": "scorecard-d9d72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250790525006:android:8e70b6a3ead5a53b76ab1f",
+        "android_client_info": {
+          "package_name": "com.play.scorecard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250790525006-b05r8clo7v5fna0q5srusqkvop1k4iuo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgR1Xf7GR4JdBtLsuEb6q301KKY_lErmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250790525006-b05r8clo7v5fna0q5srusqkvop1k4iuo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
